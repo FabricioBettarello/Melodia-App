@@ -638,7 +638,6 @@ footer {
     font-size: 1.1rem;
     transition: all 0.3s;
     cursor: pointer;
-    translate: 100px;
 }
 
 #contact button:hover {
